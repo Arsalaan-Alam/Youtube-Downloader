@@ -1,10 +1,11 @@
+# Importing Dependency
 from pytube import YouTube
 
-
+# Add your link here
 link = "https://www.youtube.com/watch?v=m1sOENnFd_k"
 yt = YouTube(link)
 
-
+# Video Info
 print("Title: ", yt.title)
 print("Number of views: ", yt.views)
 print("Length of video: ", yt.length)
