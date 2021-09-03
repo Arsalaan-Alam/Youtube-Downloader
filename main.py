@@ -2,7 +2,7 @@
 from pytube import YouTube
 
 # Add your link here
-link = input("Enter the link of YouTube video to download:  ")
+link = input("Enter the link of YouTube video which has to be downloaded:  ")
 yt = YouTube(link)
 
 # Video Info
