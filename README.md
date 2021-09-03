@@ -5,6 +5,7 @@ A simple tool to download youtube videos
 The only thing to install is Pytube 
 
 ```
-python
 python -m pip install --upgrade pytube
 ```
+<br>
+The downloaded video would be saved in the same folder in which the code is
