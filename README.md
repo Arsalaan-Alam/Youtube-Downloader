@@ -1,4 +1,10 @@
 # Youtube-Downloader
 A simple tool to download youtube videos
 
-<img src= "https://images.indianexpress.com/2021/06/YouTube-logo.jpg">
+## Install Dependencies
+The only thing to install is Pytube 
+
+```
+python
+python -m pip install --upgrade pytube
+```
