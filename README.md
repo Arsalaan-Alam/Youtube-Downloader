@@ -2,6 +2,7 @@
 A simple tool to download youtube videos
 
 **Install Dependencies**
+
 The only thing to install is Pytube 
 
 ```
